@@ -1,0 +1,13 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="ARscripManager">
+			<method name="DeleteItem"/>
+		</type>
+		<type fullname="GameManager">
+			<method name="closseAPP"/>
+			<method name="ItemsMenu"/>
+			<method name="MainMenu"/>
+			<method name="MainMenu"/>
+		</type>
+	</assembly>
+</linker>
